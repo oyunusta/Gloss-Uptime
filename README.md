@@ -1,4 +1,4 @@
-# Uptime #OnlyCode
+# Uptime #Gloss Code
 
 **MertBhey prezınts**
 
@@ -8,3 +8,5 @@ ekle ile 1828383 yeri aktif tutabilirsinz
 vds glitch tarafından engellenirse işlemez
 
 **MertBhey prezınts**
+
+**Only Code Verdi Teşekkürler**
